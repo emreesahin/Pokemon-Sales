@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+//font-family: 'Nerko One', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Fascinate&display=swap');
+
+
+.components {
+    background-color: #f3f4fa;
+}
+
+.typography_title {
+    color: #6F6E75;
+}
+.typography_body {
+    color: #6F6E75
+}
+
+.logo {
+    width: 200px;
+}
+
+.right_top_icons {
+    margin: 15px ;
+    
+}
+.box {
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    }
+
+.loginContainer{
+    background-color: #1F2024;
+    padding-bottom: 16px;
+}
+
+.button {
+    border: none;
+  color: blue;
+  text-decoration: none;
+  font-size: 16px;
+font-family: 'Rubato', sans-serif;
+}
+
+.cardText {
+    font-family: 'Alfa Slab One', cursive;    text-decoration: none
+}
+.detailCard {
+    margin-top: 5%;
+    margin-bottom: 6%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.welcome-image {
+    margin-top: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: auto;
+    padding-right: auto;
+    }
+.welcome-text {
+    font-family: 'Alfa Slab One', cursive;
+}
+body {
+    
+    background-image: url('../images/pokemon-background2.jpg');
+    
+}
+nav {
+    margin-top: 13px;
+}
+.buttons {
+    text-decoration: none;
+}
